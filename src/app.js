@@ -6,7 +6,7 @@ const dayOfTheWeek = (date = new Date()) => {
     "Wednesay",
     "Thursday",
     "Friday",
-    "Saturday",
+    "Saturd ay",
   ];
 
   return days[date.getDay()];
